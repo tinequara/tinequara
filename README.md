@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, im tinequara :)
+<p align="center">
+  <img src="https://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG32.png" alt="Page" /> 
+</p>
 
-<!--
-**tinequara/tinequara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
+- 🎓 I'm a passionate Python developer with a love for building intuitive, scalable applications.
+- 💼 Currently exploring new opportunities to collaborate on innovative projects.
+- 🔍 Always eager to learn and improve my skills in Python, AI, and backend development.
+- 🌱 Actively working on expanding my knowledge in full-stack development and cloud technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies:
+- 💻 Languages: Python, JavaScript, LUA, HTML, CSS
+- 🔧 Frameworks: Django, Flask, TG API
+- 🌐 Tools: Git, Docker, Postman
+- 🗄️ Database: MySQL, PostgreSQL, MongoDB
+- ☁️ Cloud: Yandex, Cloud4y, GCP, Eurobyte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm working on:
+- 📊 Building Python-based data analysis tools
+- 🤖 Experimenting with AI and Machine Learning projects
+- 🚀 Contributing to open-source Python libraries
+
+## 📫 How to reach me:
+- 🔗 Telegam: [@beszpredel](https://t.me/beszpredel)
