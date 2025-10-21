@@ -20,6 +20,3 @@
 - 📊 Building Python-based data analysis tools
 - 🤖 Experimenting with AI and Machine Learning projects
 - 🚀 Contributing to open-source Python libraries
-
-## 📫 How to reach me:
-- 🔗 Telegam: [@beszpredel](https://t.me/beszpredel)
